@@ -3,7 +3,7 @@
 
 Per gestire l’accesso ai servizi pubblici e privati che utilizzano il sistema SPID, si rende necessario, sia per una questione di user experience che di immagine del sistema, la standardizzazione delle interfacce, della comunicazione e dell’utilizzo del logo SPID.
 
-## SPID graphics
+## SPID GRAPHICS
 
 Le componenti grafiche SPID sono organizzate in:
 

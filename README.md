@@ -21,8 +21,15 @@ Il logo SPID dovrà essere presente in ogni sito web, applicazione, documento o 
 
 Il logo dovrà essere presente nell’header o comunque ben visibile nel contesto del layout.
 
-Il logo SPID/ AgID deve essere inserito nel footer o comunque ben visibile nel contesto del layout nelle:
+Il logo SPID/AgID deve essere inserito nel footer o comunque ben visibile nel contesto del layout nelle:
 
 - Pagine o App desktop/mobile di iscrizione al servizio che permette l’utilizzo di SPID (Identity Provider)
 - Pagine o App desktop/mobile di recupero credenziali per l’utilizzo di SPID (Identity Provider)
 - Pagine o App desktop/mobile di informazione sul servizio che permette di utilizzare o utilizza SPID (Identity Provider e Service Provider)
+
+## Marchi registrati 
+
+I loghi dei servizi degli Identity Provider sono marchi registrati dalle rispettive aziende.
+
+Il logo SPID è un marchio registrato da parte di AgID, Agenzia per l'Italia Digitale della Presidenza del Consiglio dei Ministri.
+
